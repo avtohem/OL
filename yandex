@@ -1,3 +1,5 @@
+https://gis-lab.info/forum/viewtopic.php?t=19763
+
 var yandexMapLayerMap = new ol.layer.Tile({
 		'title': 'Яндекс Карты',
 		type: 'base',
